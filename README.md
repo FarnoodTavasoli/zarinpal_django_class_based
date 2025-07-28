@@ -1,6 +1,6 @@
 # Django Zarinpal Integration
-
-A simple Django integration for the Zarinpal payment gateway.
+پیاده‌سازی ساده API درگاه پرداخت زرینپال در رستفریموورک جنگو
+A simple Django REST-API integration for the Zarinpal payment gateway.
 
 [فارسی (Persian)](#فارسی) | [English](#english)
 
