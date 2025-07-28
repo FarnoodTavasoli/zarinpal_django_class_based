@@ -4,6 +4,9 @@ import json
 SANDBOX = False # set to True for testing purposes
 # also for sandbox mode use any random UUID-V4 for your merchant_code
 
+# import uuid
+# merchant = uuid.uuid4()
+
 if SANDBOX:
     subdom = "sandbox"
     paysub = 'sandbox'
