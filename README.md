@@ -1,5 +1,7 @@
 # Django Zarinpal Integration
-پیاده‌سازی ساده API درگاه پرداخت زرینپال در رستفریموورک جنگو
+
+پیاده‌سازی ساده API درگاه پرداخت زرینپال در رست فریموورک جنگو.
+
 A simple Django REST-API integration for the Zarinpal payment gateway.
 
 [فارسی (Persian)](#فارسی) | [English](#english)
